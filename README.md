@@ -4,7 +4,7 @@ Strands Agents SDK の内部制御メカニズム（Hooks・Plugin・Steering）
 
 以下の Qiita 記事に対応しています。
 
-- [Strands Agentsの「中身」を理解する：Hooks・Plugin・Steeringで制御可能なエージェントを作る](https://qiita.com/miruky/items/PLACEHOLDER)
+- [Strands Agentsの「中身」を理解する：Hooks・Plugin・Steeringで制御可能なエージェントを作る](https://qiita.com/miruky/items/ed50bfcf5630f2a5fb73)
 
 ## 前提条件
 
